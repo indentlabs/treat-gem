@@ -8,10 +8,7 @@ gem 'yomu'
 gem 'ruby-readability'
 
 group :test do
-  gem 'rspec'
-  gem 'rake'
   gem 'terminal-table'
-  gem 'simplecov'
 end
 
 =begin
