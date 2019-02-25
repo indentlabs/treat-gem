@@ -8,6 +8,7 @@ gem 'yomu'
 gem 'ruby-readability'
 gem 'nokogiri'
 gem 'rubyzip'
+gem 'zip-zip'
 
 group :test do
   gem 'terminal-table'
