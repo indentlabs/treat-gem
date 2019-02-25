@@ -7,6 +7,7 @@ gem 'schiphol'
 gem 'yomu'
 gem 'ruby-readability'
 gem 'nokogiri'
+gem 'rubyzip'
 
 group :test do
   gem 'terminal-table'
