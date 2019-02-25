@@ -191,7 +191,7 @@ module Treat::Core::Installer
   # Unzip a file to the destination path.
   def self.unzip_stanford(file, destination)
 
-    require 'zip/zip'
+    require 'zip'
     f_path = ''
 
     Zip::ZipFile.open(file) do |zip_file|
